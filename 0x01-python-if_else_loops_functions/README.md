@@ -89,3 +89,8 @@
 12. 11-pow.py
     - Python function that computes a to the power of b and return the value.
 
+13. 12-fizzbuzz.py
+    - Python function that prints the numbers from 1 to 100 separated by a space.
+      - For multiples of three print Fizz instead of the number and for multiples of five print Buzz.
+      - For numbers which are multiples of both three and five print FizzBuzz.
+
