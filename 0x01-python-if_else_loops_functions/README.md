@@ -57,3 +57,9 @@
      - 16 = 0x10
      - 17 = 0x11
 
+6. 5-print_comb2.py
+   - Python program that prints numbers from 0 to 99.
+     - Numbers must be separated by ,, followed by a space
+     - Numbers should be printed in ascending order, with two digits
+     - The last number should be followed by a new line
+
