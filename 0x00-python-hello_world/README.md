@@ -37,7 +37,11 @@
 
 11. 10-check_cycle.c, lists.h
     - Function in C that checks if a singly linked list has a cycle in it.
+
 12. 100-write.py
     - Python script that prints exactly and that piece of art is useful - Dora Korpar, 2015-10-19, followed by a new line.
+
+13. 101-compile
+    - Script that compiles a Python script file.
 
 
