@@ -44,4 +44,6 @@
 13. 101-compile
     - Script that compiles a Python script file.
 
+14. 102-magic_calculation.py
+    - Python function def magic_calculation(a, b)
 
