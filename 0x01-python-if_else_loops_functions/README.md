@@ -80,3 +80,6 @@
 9. 8-uppercase.py
    - Python function that prints a string in uppercase followed by a new line.
 
+10. 9-print_last_digit.py
+   - Python function that prints the last digit of a number.
+
