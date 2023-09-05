@@ -45,4 +45,15 @@
 4. 3-print_alphabt.py
    - Python program that prints the ASCII alphabet, in lowercase, not followed by a new line.
      - Print all the letters except q and e
- 
+
+5. 4-print_hexa.py
+   = Python program that prints all numbers from 0 to 98 in decimal and in hexadecimal
+     - 8 = 0x8
+     - 9 = 0x9
+     - 10 = 0xa
+     - 11 = 0xb
+     - 12 = 0xc
+     - 15 = 0xf
+     - 16 = 0x10
+     - 17 = 0x11
+
