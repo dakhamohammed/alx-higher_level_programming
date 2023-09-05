@@ -41,4 +41,8 @@
 
 3. 2-print_alphabet.py
    - Python program that prints the ASCII alphabet, in lowercase, not followed by a new line.
+
+4. 3-print_alphabt.py
+   - Python program that prints the ASCII alphabet, in lowercase, not followed by a new line.
+     - Print all the letters except q and e
  
