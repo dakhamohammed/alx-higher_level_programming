@@ -98,3 +98,6 @@
     - Function in C that inserts a number into a sorted singly linked list.
       - Return: the address of the new node, or NULL if it failed
 
+15. 100-print_tebahpla.py
+    - Python program that prints the ASCII alphabet, in reverse order, alternating lowercase and uppercase (z in lowercase and Y in uppercase)
+
