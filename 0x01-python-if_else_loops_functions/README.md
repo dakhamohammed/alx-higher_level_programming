@@ -47,7 +47,7 @@
      - Print all the letters except q and e
 
 5. 4-print_hexa.py
-   = Python program that prints all numbers from 0 to 98 in decimal and in hexadecimal
+   - Python program that prints all numbers from 0 to 98 in decimal and in hexadecimal
      - 8 = 0x8
      - 9 = 0x9
      - 10 = 0xa
@@ -103,4 +103,7 @@
 
 16. 101-remove_char_at.py
     - Python function that creates a copy of the string, removing the character at the position n (not the Python way, the “C array index”).
+
+17. 102-magic_calculation.py
+    - Python function def magic_calculation(a, b, c): that does exactly the same as Python bytecode
 
