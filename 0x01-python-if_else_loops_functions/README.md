@@ -94,3 +94,7 @@
       - For multiples of three print Fizz instead of the number and for multiples of five print Buzz.
       - For numbers which are multiples of both three and five print FizzBuzz.
 
+14. 13-insert_number.c, lists.h
+    - Function in C that inserts a number into a sorted singly linked list.
+      - Return: the address of the new node, or NULL if it failed
+
