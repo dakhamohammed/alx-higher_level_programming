@@ -17,3 +17,6 @@
 2. 1-calculation.py
    - Python program that imports functions from the file calculator_1.py, does some Maths, and prints the result.
 
+3. 2-args.py
+   - Python program that prints the number of and the list of its arguments.
+
