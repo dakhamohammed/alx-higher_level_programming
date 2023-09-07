@@ -20,3 +20,6 @@
 3. 2-args.py
    - Python program that prints the number of and the list of its arguments.
 
+4. 3-infinite_add.py
+   - Python program that prints the result of the addition of all arguments.
+
