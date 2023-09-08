@@ -28,3 +28,6 @@
      - Download hidden_4.pyc locally:
        - ```curl -Lso "hidden_4.pyc" "https://github.com/alx-tools/0x02.py/raw/master/hidden_4.pyc"```
 
+6. 5-variable_load.py
+   - Python program that imports the variable a from the file variable_load_5.py and prints its value.
+
