@@ -51,3 +51,6 @@
 8. 101-easy_print.py
    - Python program that prints #pythoniscool, followed by a new line, in the standard output.
 
+9. 102-magic_calculation.py
+   - Python function def magic_calculation(a, b): that does exactly the same as Python bytecode.
+
