@@ -54,3 +54,6 @@
 9. 102-magic_calculation.py
    - Python function def magic_calculation(a, b): that does exactly the same as Python bytecode.
 
+10. 103-fast_alphabet.py
+    - Python program that prints the alphabet in uppercase, followed by a new line.
+
