@@ -28,3 +28,6 @@
      - If idx is negative, the function should not modify anything, and returns the original list
      - If idx is out of range (> of number of element in my_list), the function should not modify anything, and returns the original list
 
+4. 3-print_reversed_list_integer.py & 3-main.py
+   - Python function that prints all integers of a list, in reverse order.
+
