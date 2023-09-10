@@ -42,3 +42,11 @@
 7. **6-print_matrix_integer.py** & 6-main.py
    - Python function that prints a matrix of integers.
 
+8. **7-add_tuple.py** & **7-main.py**
+   - Python function that adds 2 tuples.
+     - Returns a tuple with 2 integers:
+       - The first element should be the addition of the first element of each argument
+       - The second element should be the addition of the second element of each argument
+     - If a tuple is smaller than 2, use the value 0 for each missing integer
+     - If a tuple is bigger than 2, use only the first 2 integers
+
