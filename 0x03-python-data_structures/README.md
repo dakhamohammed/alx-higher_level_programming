@@ -15,4 +15,6 @@
 12. What is the del statement and how to use it
 
 ### Files
+1. 0-print_list_integer.py
+   - Python function that prints all integers of a list.
 
