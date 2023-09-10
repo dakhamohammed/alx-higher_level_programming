@@ -36,3 +36,6 @@
      - If idx is negative, the function should return a copy of the original list
      - If idx is out of range (> of number of element in my_list), the function should return a copy of the original list
 
+6. **5-no_c.py** & **5-main.py**
+   - Python function that removes all characters c and C from a string.
+
