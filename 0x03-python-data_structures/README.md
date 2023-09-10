@@ -15,11 +15,16 @@
 12. What is the del statement and how to use it
 
 ### Files
-1. 0-print_list_integer.py && 0-main.py
+1. 0-print_list_integer.py & 0-main.py
    - Python function that prints all integers of a list.
 
-2. 1-element_at.py && 1-main.py
+2. 1-element_at.py & 1-main.py
    - Python function that retrieves an element from a list like in C.
      - If idx is negative, the function should return None
      - If idx is out of range (> of number of element in my_list), the function should return None
+
+3. 2-replace_in_list.py & 2-main.py
+   - Python function that replaces an element of a list at a specific position (like in C).
+     - If idx is negative, the function should not modify anything, and returns the original list
+     - If idx is out of range (> of number of element in my_list), the function should not modify anything, and returns the original list
 
