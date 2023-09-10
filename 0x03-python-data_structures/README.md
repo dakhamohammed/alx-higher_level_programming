@@ -39,3 +39,6 @@
 6. **5-no_c.py** & **5-main.py**
    - Python function that removes all characters c and C from a string.
 
+7. **6-print_matrix_integer.py** & 6-main.py
+   - Python function that prints a matrix of integers.
+
