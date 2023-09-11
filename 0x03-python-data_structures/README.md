@@ -58,3 +58,7 @@
     - Python function that finds the biggest integer of a list.
       - If the list is empty, return None
 
+11. **10-divisible_by_2.py** & **10-main.py**
+    - Python function that finds all multiples of 2 in a list.
+      - Return a new list with True or False, depending on whether the integer at the same position in the original list is a multiple of 2
+
