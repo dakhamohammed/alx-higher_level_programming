@@ -54,3 +54,7 @@
    - Python function that returns a tuple with the length of a string and its first character.
      - If the sentence is empty, the first character should be equal to None
 
+10. **9-max_integer.py** & **9-main.py**
+    - Python function that finds the biggest integer of a list.
+      - If the list is empty, return None
+
