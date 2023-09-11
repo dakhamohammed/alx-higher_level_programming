@@ -69,3 +69,14 @@
 13. **12-switch.py**
     - Switch value of a and b.
 
+14. **13-is_palindrome.c**
+    - Function in C that checks if a singly linked list is a palindrome.
+      - Return: 0 if it is not a palindrome, 1 if it is a palindrome
+      - An empty list is considered a palindrome
+
+15. **100-print_python_list_info.c** & **100-test_lists.py**
+    - C function that prints some basic info about Python lists.
+      - Python version: 3.4
+      - Your shared library will be compiled with this command line: gcc -Wall -Werror -Wextra -pedantic -std=c99 -shared -Wl,-soname,PyList -o libPyList.so -fPIC -I/usr/include/python3.4 100-print_python_list_info.c
+      - OS: Ubuntu 14.04 LTS
+
