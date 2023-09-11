@@ -50,3 +50,7 @@
      - If a tuple is smaller than 2, use the value 0 for each missing integer
      - If a tuple is bigger than 2, use only the first 2 integers
 
+9. **8-multiple_returns.py** & **8-main.py**
+   - Python function that returns a tuple with the length of a string and its first character.
+     - If the sentence is empty, the first character should be equal to None
+
