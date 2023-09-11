@@ -66,3 +66,6 @@
     - Python function that deletes the item at a specific position in a list.
       - If idx is negative or out of range, nothing change (returns the same list)
 
+13. **12-switch.py**
+    - Switch value of a and b.
+
