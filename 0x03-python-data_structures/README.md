@@ -62,3 +62,7 @@
     - Python function that finds all multiples of 2 in a list.
       - Return a new list with True or False, depending on whether the integer at the same position in the original list is a multiple of 2
 
+12. **11-delete_at.py** & **11-main.py**
+    - Python function that deletes the item at a specific position in a list.
+      - If idx is negative or out of range, nothing change (returns the same list)
+
