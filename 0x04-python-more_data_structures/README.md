@@ -27,3 +27,6 @@
      - search is the element to replace in the list
      - replace is the new element
 
+3. **2-uniq_add.py** & **2-main.py**
+   - Python function that adds all unique integers in a list (only once for each integer).
+
