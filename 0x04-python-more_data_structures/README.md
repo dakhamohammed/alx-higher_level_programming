@@ -21,3 +21,9 @@
        - Same size as matrix
        - Each value should be the square of the value of the input
 
+2. **1-search_replace.py** & **1-main.py**
+   - Python function that replaces all occurrences of an element by another in a new list.
+     - my_list is the initial list
+     - search is the element to replace in the list
+     - replace is the new element
+
