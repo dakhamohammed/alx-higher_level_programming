@@ -30,3 +30,6 @@
 3. **2-uniq_add.py** & **2-main.py**
    - Python function that adds all unique integers in a list (only once for each integer).
 
+4. **3-common_elements.py** & **3-main.py**
+   - Python function that returns a set of common elements in two sets.
+
