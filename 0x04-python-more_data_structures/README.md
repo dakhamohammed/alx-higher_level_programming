@@ -60,3 +60,7 @@
     - Python function that returns a new dictionary with all values multiplied by 2.
       - Returns a new dictionary multiplied by 2
 
+11. **10-best_score.py** & **10-main.py**
+    - Python function that returns a key with the biggest integer value.
+      - If no score found, return None
+
