@@ -56,3 +56,7 @@
    - key argument will be always a string
    - If a key doesn’t exist, the dictionary won’t change
 
+10. **9-multiply_by_2.py** & **9-main.py**
+    - Python function that returns a new dictionary with all values multiplied by 2.
+      - Returns a new dictionary multiplied by 2
+
