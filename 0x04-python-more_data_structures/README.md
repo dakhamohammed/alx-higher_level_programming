@@ -39,3 +39,8 @@
 6. **5-number_keys.py** & **5-main.py**
    - Python function that returns the number of keys in a dictionary.
 
+7. **6-print_sorted_dictionary.py** & **6-main.py**
+   - Python function that prints a dictionary by ordered keys.
+     - Dictionary values can have any type
+     - Keys sorted by alphabetic order
+
