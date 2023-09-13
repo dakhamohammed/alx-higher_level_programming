@@ -64,3 +64,9 @@
     - Python function that returns a key with the biggest integer value.
       - If no score found, return None
 
+12. **11-multiply_list_map.py** & **11-main.py**
+    - Python function that returns a list with all values multiplied by a number without using any loops.
+      - Returns a new list:
+        - Same length as my_list
+        - Each value should be multiplied by number
+
