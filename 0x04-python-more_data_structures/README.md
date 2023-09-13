@@ -36,3 +36,6 @@
 5. **4-only_diff_elements.py** & **4-main.py**
    - Python function that returns a set of all elements present in only one set.
 
+6. **5-number_keys.py** & **5-main.py**
+   - Python function that returns the number of keys in a dictionary.
+
