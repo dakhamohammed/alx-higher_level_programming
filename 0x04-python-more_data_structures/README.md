@@ -74,3 +74,7 @@
     - Python function that converts a Roman numeral to an integer.
       - If the roman_string is not a string or None, return 0
 
+14. **100-weight_average.py** & **100-main.py**
+    - Python function that returns the weighted average of all integers tuple (<score>, <weight>)
+      - Returns 0 if the list is empty
+
