@@ -85,3 +85,8 @@
         - Same size as matrix
         - Each value should be the square of the value of the input
 
+16. **102-complex_delete.py** & **102-main.py**
+    - Python function that deletes keys with a specific value in a dictionary.
+      - If the value doesn’t exist, the dictionary won’t change
+      - All keys having the searched value have to be deleted
+
