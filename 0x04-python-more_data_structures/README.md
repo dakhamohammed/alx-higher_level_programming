@@ -78,3 +78,10 @@
     - Python function that returns the weighted average of all integers tuple (<score>, <weight>)
       - Returns 0 if the list is empty
 
+15. **101-square_matrix_map.py** & **101-main.py**
+    - Python function that computes the square value of all integers of a matrix using map.
+      - matrix is a 2 dimensional array
+      - Returns a new matrix:
+        - Same size as matrix
+        - Each value should be the square of the value of the input
+
