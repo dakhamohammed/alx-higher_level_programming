@@ -70,3 +70,7 @@
         - Same length as my_list
         - Each value should be multiplied by number
 
+13. **12-roman_to_int.py** & **12-main.py**
+    - Python function that converts a Roman numeral to an integer.
+      - If the roman_string is not a string or None, return 0
+
