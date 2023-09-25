@@ -23,3 +23,8 @@
      - Returns True if value has been correctly printed (it means the value is an integer)
      - Otherwise, returns False
 
+3. **2-safe_print_list_integers.py** & **2-main.py**
+   - Python function that prints the first x elements of a list and only integers.
+     - x represents the number of elements to access in my_list
+     - x can be bigger than the length of my_list - if it’s the case, an exception is expected to occur
+     - Returns the real number of integers printed
