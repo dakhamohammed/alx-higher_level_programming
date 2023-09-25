@@ -48,3 +48,6 @@
 6. **5-raise_exception.py** & **5-main.py**
    - Python function that raises a type exception.
 
+7. **6-raise_exception_msg.py** & **6-main.py**
+   - Python function that raises a name exception with a message.
+
