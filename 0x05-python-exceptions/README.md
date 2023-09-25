@@ -56,3 +56,8 @@
      - Return True if value has been correctly printed
      - Return False if value not been printed and prints in stderr the error precede by Exception.
 
+9. **101-safe_function.py** & **101-main.py**
+   - Python function that executes a function safly.
+     - Return the result of the function
+     - Return None if something happens during the function and prints in stderr the error precede by Exception:
+
