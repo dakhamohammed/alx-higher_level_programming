@@ -34,3 +34,14 @@
      - The result of the division should print on the finally: section preceded by Inside result:
      - Returns the value of the division, otherwise: None
 
+5. **4-list_division.py** & **4-main.py**
+   - Python function that divides element by element 2 lists.
+     - Returns a new list (length = list_length) with all divisions
+     - If 2 elements can’t be divided, the division result should be equal to 0
+     - If an element is not an integer or float:
+       - print: wrong type
+     - If the division can’t be done (/0):
+       - print: division by 0
+     - If my_list_1 or my_list_2 is too short
+       - print: out of range
+
