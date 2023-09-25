@@ -28,3 +28,9 @@
      - x represents the number of elements to access in my_list
      - x can be bigger than the length of my_list - if it’s the case, an exception is expected to occur
      - Returns the real number of integers printed
+
+4. **3-safe_print_division.py** & **3-main.py**
+   - Python function that divides 2 integers and prints the result.
+     - The result of the division should print on the finally: section preceded by Inside result:
+     - Returns the value of the division, otherwise: None
+
