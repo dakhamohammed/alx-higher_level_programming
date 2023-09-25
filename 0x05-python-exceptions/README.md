@@ -51,3 +51,8 @@
 7. **6-raise_exception_msg.py** & **6-main.py**
    - Python function that raises a name exception with a message.
 
+8. **100-safe_print_integer_err.py** & **100-main.py**
+   - Python function that prints an integer.
+     - Return True if value has been correctly printed
+     - Return False if value not been printed and prints in stderr the error precede by Exception.
+
