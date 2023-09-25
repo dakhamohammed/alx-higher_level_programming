@@ -17,3 +17,9 @@
      - x can be bigger than the length of my_list
      - Returns the real number of elements printed
 
+2. **1-safe_print_integer.py** & **1-main.py**
+   - Python function that prints an integer with "{:d}".format().
+     - The integer should be printed followed by a new line
+     - Returns True if value has been correctly printed (it means the value is an integer)
+     - Otherwise, returns False
+
