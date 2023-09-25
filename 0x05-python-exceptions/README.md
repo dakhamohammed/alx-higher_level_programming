@@ -45,3 +45,6 @@
      - If my_list_1 or my_list_2 is too short
        - print: out of range
 
+6. **5-raise_exception.py** & **5-main.py**
+   - Python function that raises a type exception.
+
