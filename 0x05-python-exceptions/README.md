@@ -61,3 +61,6 @@
      - Return the result of the function
      - Return None if something happens during the function and prints in stderr the error precede by Exception:
 
+10. **102-magic_calculation.py**
+    - Python function that does exactly the same as Python bytecode.
+
