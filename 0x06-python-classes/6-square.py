@@ -13,7 +13,6 @@ class Square:
     def size(self):
         return self.__size
 
-    
     @size.setter
     def size(self, value):
         if isinstance(value, int) and value >= 0:
