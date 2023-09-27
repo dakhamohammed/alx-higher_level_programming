@@ -8,7 +8,7 @@ class Square:
         self.position = position
         self.size = size
 
-    """size propr """
+    """size propr"""
     @property
     def size(self):
         return self.__size
