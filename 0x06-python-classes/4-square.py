@@ -7,7 +7,7 @@ class Square:
     def __init__(self, size=0):
         """Private instance attribute: self.__size"""
         self.__size = size
-    
+
     """Setter propr """
     @property
     def size(self):
