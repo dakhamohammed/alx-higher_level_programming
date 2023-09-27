@@ -55,7 +55,7 @@ class Square:
             jump = self.position[1]
             while jump > 0:
                 print()
-                jump = jump -1
+                jump = jump - 1
             a, b = self.size, self.size
             for i in range(a):
                 space = self.position[0]
