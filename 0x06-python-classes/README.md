@@ -135,3 +135,6 @@
      - Public instance method: ***def area(self):*** that returns the current square area
      - ***Square*** instance can answer to comparators: ***==***, ***!=***, ***>***, ***>=***, ***<*** and ***<=*** based on the square area
 
+10. **103-magic_class.py**
+    -  Python class MagicClass that does exactly the same as the following Python bytecode.
+
