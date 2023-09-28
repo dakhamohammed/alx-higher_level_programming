@@ -64,3 +64,6 @@
 10. **102-magic_calculation.py**
     - Python function that does exactly the same as Python bytecode.
 
+11. **103-python.c**
+    - Three C functions that print some basic info about Python lists, Python bytes an Python float objects.
+
