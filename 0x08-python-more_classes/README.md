@@ -55,3 +55,7 @@
    - Class Rectangle that defines a rectangle by: (based on 3-rectangle.py)
      - Return a string representation of the rectangle to be able to recreate a new instance by using eval()
 
+6. **5-rectangle.py** & **5-main.py**
+   - Class Rectangle that defines a rectangle by: (based on 4-rectangle.py)
+     - Print the message Bye rectangle... (... being 3 dots not ellipsis) when an instance of Rectangle is deleted
+
