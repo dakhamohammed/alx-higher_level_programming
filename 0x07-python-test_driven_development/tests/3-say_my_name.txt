@@ -8,21 +8,21 @@ This modules defines a function ``say_my_name(first_name, last_name="")``.
 ::
 
     >>> say_my_name = __import__('3-say_my_name').say_my_name
-    >>> say_my_name("Brennan", "Baraban")
-    My name is Brennan Baraban
+    >>> say_my_name("Mohammed", "Dakhamat")
+    My name is Mohammed Dakhamat
 
 ::
 
-    >>> say_my_name("Cornelius Maxwell", "Jones II")
-    My name is Cornelius Maxwell Jones II
+    >>> say_my_name("is", "what?")
+    My name is is what?
 
 The parameter ```last_name``` is optional. If no last name is provided,
 an empty string is printed instead.
 
 ::
 
-    >>> say_my_name("Brennan")
-    My name is Brennan 
+    >>> say_my_name("Mohammed")
+    My name is Mohammed 
 
 - Invalid Names
 ===============
@@ -32,19 +32,19 @@ a TypeError is raised.
 
 ::
 
-    >>> say_my_name(6, "James")
+    >>> say_my_name(8, "Dakhamat")
     Traceback (most recent call last):
     TypeError: first_name must be a string
 
 ::
 
-    >>> say_my_name("LeBron", ["Cavs", "Lakers", "Heat"])
+    >>> say_my_name("Mohammed", ["D", "A", "K", "H", "A", "M", "A", "T"])
     Traceback (most recent call last):
     TypeError: last_name must be a string
 
 ::
 
-    >>> say_my_name({"LeBron": 6, "James": 23}, 7.7)
+    >>> say_my_name({"MOD": 8, "DAKHA": 8}, 8.8)
     Traceback (most recent call last):
     TypeError: first_name must be a string
 
