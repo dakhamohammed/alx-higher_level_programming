@@ -32,3 +32,6 @@
 1. **0-rectangle.py** & **0-main.py**
    - An empty class Rectangle that defines a rectangle.
 
+2. **1-rectangle.py** & **1-main.py**
+   - Class Rectangle that defines a rectangle by: (based on 0-rectangle.py)
+
