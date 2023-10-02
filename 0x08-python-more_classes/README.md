@@ -29,4 +29,6 @@
    - How to use the getattr function
 
 ### Files
+1. **0-rectangle.py** & **0-main.py**
+   - An empty class Rectangle that defines a rectangle.
 
