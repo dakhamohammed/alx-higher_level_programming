@@ -34,4 +34,16 @@
 
 2. **1-rectangle.py** & **1-main.py**
    - Class Rectangle that defines a rectangle by: (based on 0-rectangle.py)
+     - Private instance attribute: ***width***:
+       - property ***def width(self):*** to retrieve it
+       - property setter ***def width(self, value):*** to set it:
+     - Private instance attribute: ***height***:
+       - property ***def height(self):*** to retrieve it
+       - property setter ***def height(self, value):*** to set it:
+      
+
+3. **2-rectangle.py** & **2-main.py**
+   - Class Rectangle that defines a rectangle by: (based on 1-rectangle.py)
+     - Public instance method: ***def area(self):*** that returns the rectangle area.
+     - Public instance method: ***def perimeter(self):*** that returns the rectangle perimeter.
 
