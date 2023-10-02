@@ -6,6 +6,7 @@ class Rectangle:
     """Rectangle class was not empty.
     Attribute:
         number_of_instances: number of Rectangle instances.
+        print_symbol: used as symbol for string representation.
     """
 
     number_of_instances = 0
