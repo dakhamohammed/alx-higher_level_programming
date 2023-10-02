@@ -51,3 +51,7 @@
    - Class Rectangle that defines a rectangle by: (based on 2-rectangle.py)
      - Print the rectangle with the character #
 
+5. **4-rectangle.py** & **4-main.py**
+   - Class Rectangle that defines a rectangle by: (based on 3-rectangle.py)
+     - Return a string representation of the rectangle to be able to recreate a new instance by using eval()
+
