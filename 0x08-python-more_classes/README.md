@@ -47,3 +47,7 @@
      - Public instance method: ***def area(self):*** that returns the rectangle area.
      - Public instance method: ***def perimeter(self):*** that returns the rectangle perimeter.
 
+4. **3-rectangle.py** & **3-main.py**
+   - Class Rectangle that defines a rectangle by: (based on 2-rectangle.py)
+     - Print the rectangle with the character #
+
