@@ -66,3 +66,10 @@
        - Incremented during each new instance instantiation
        - Decremented during each instance deletion
 
+8. **7-rectangle.py** & **7-main.py**
+   - Class Rectangle that defines a rectangle by: (based on 6-rectangle.py)
+     - Public class attribute print_symbol:
+       - Initialized to #
+       - Used as symbol for string representation
+       - Can be any type
+
