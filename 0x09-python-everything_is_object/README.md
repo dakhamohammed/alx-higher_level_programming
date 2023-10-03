@@ -27,32 +27,42 @@
 
 3. **2-answer.txt**
    - The following code, do **a** and **b** point to the same object
-     ```python
-     a = 89
-     b = 100
+     ```bash
+     >>> a = 89
+     >>> b = 100
      ```
      - The answer is **no**
 
 4. **3-answer.txt**
      - The following code, do **a** and **b** point to the same object
-       ```python
-       a = 89
-       b = 89
+       ```bash
+       >>> a = 89
+       >>> b = 89
        ```
-       - The answer is **no**
+       - The answer is **yes**
 
 5. **4-answer.txt**
    - The following code, do **a** and **b** point to the same object
-       ```python
-       a = 89
-       b = a
+       ```bash
+       >>> a = 89
+       >>> b = a
        ```
        - The answer is **yes**
 
 6. **5-answer.txt**
    - The following code, do **a** and **b** point to the same object
-       ```python
-       a = 89
-       b = a + 1
+       ```bash
+       >>> a = 89
+       >>> b = a + 1
        ```
        - The answer is **no**
+
+7. **6-answer.txt**
+   - These 3 lines print:
+     ```nash
+     >>> s1 = "Best School"
+     >>> s2 = s1
+     >>> print(s1 == s2)
+     >>> True
+     ```
+
