@@ -19,4 +19,10 @@
 
 1. **0-answer.txt**
    - Function name would you use to get the type of an object.
+     - use type() function.
+
+2. **1-answer.txt**
+   - To get the variable identifier (which is the memory address in the CPython implementation).
+     - id() function.
+
 
