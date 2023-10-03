@@ -40,3 +40,11 @@
        b = 89
        ```
        - The answer is **no**
+
+5. **4-answer.txt**
+   - The following code, do **a** and **b** point to the same object
+       ```python
+       a = 89
+       b = a
+       ```
+       - The answer is **no**
