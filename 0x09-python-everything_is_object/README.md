@@ -26,10 +26,17 @@
      - id() function.
 
 3. **2-answer.txt**
-   - The following code, do a and b point to the same object
+   - The following code, do **a** and **b** point to the same object
      ```python
      a = 89
      b = 100
      ```
      - The answer is **no**
 
+4. **3-answer.txt**
+     - The following code, do **a** and **b** point to the same object
+     ```python
+     a = 89
+     b = 89
+     ```
+     - The answer is **no**
