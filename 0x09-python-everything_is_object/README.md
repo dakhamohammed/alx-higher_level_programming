@@ -63,6 +63,19 @@
      >>> s1 = "Best School"
      >>> s2 = s1
      >>> print(s1 == s2)
+     ```
+     ```bash
      >>> True
      ```
+8. **7-answer.txt**
+   - These 3 lines print:
+     ```bash
+     >>> s1 = "Best"
+     >>> s2 = s1
+     >>> print(s1 is s2)
+     ```
+     ```bash
+     True
+     ```
+
 
