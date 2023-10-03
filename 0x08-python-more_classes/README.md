@@ -82,5 +82,5 @@
 
 10. **9-rectangle.py** & **9-main.py**
     - Class ***Rectangle*** that defines a rectangle by: (based on ***8-rectangle.py***)
-      - Class method ***def square(cls, size=0):*** that returns a new ***Rectangle*** instance with ****width == height == size***
+      - Class method ***def square(cls, size=0):*** that returns a new ***Rectangle*** instance with ***width == height == size***
 
