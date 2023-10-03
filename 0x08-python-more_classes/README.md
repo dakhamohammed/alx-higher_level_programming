@@ -49,27 +49,34 @@
 
 4. **3-rectangle.py** & **3-main.py**
    - Class Rectangle that defines a rectangle by: (based on 2-rectangle.py)
-     - Print the rectangle with the character #
+     - Print the rectangle with the character ***#***
 
 5. **4-rectangle.py** & **4-main.py**
    - Class Rectangle that defines a rectangle by: (based on 3-rectangle.py)
-     - Return a string representation of the rectangle to be able to recreate a new instance by using eval()
+     - Return a string representation of the rectangle to be able to recreate a new instance by using ***eval()***
 
 6. **5-rectangle.py** & **5-main.py**
    - Class Rectangle that defines a rectangle by: (based on 4-rectangle.py)
-     - Print the message Bye rectangle... (... being 3 dots not ellipsis) when an instance of Rectangle is deleted
+     - Print the message ***Bye rectangle...*** (***...*** being 3 dots not ellipsis) when an instance of ***Rectangle*** is deleted
 
 7. **6-rectangle.py** & **6-main.py**
    - Class Rectangle that defines a rectangle by: (based on 5-rectangle.py)
-     - Public class attribute number_of_instances:
-       - Initialized to 0
+     - Public class attribute ***number_of_instances***:
+       - Initialized to ***0***
        - Incremented during each new instance instantiation
        - Decremented during each instance deletion
 
 8. **7-rectangle.py** & **7-main.py**
    - Class Rectangle that defines a rectangle by: (based on 6-rectangle.py)
-     - Public class attribute print_symbol:
-       - Initialized to #
+     - Public class attribute ***print_symbol***:
+       - Initialized to ***#***
        - Used as symbol for string representation
        - Can be any type
+
+9. **8-rectangle.py** & **8-main.py**
+   - Class Rectangle that defines a rectangle by: (based on 7-rectangle.py)
+     - Static method ***def bigger_or_equal(rect_1, rect_2):*** that returns the biggest rectangle based on the area
+       - ***rect_1*** must be an instance of ***Rectangle***, otherwise raise a ***TypeError*** exception with the message ***rect_1 must be an instance of Rectangle***
+       - ***rect_2*** must be an instance of ***Rectangle***, otherwise raise a ***TypeError*** exception with the message ***rect_2 must be an instance of Rectangle***
+       -- Returns ***rect_1*** if both have the same area value
 
