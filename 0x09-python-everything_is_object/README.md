@@ -47,4 +47,12 @@
        a = 89
        b = a
        ```
+       - The answer is **yes**
+
+6. **5-answer.txt**
+   - The following code, do **a** and **b** point to the same object
+       ```python
+       a = 89
+       b = a + 1
+       ```
        - The answer is **no**
