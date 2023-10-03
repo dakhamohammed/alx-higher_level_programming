@@ -17,3 +17,6 @@
 
 ### File
 
+1. **0-answer.txt**
+   - Function name would you use to get the type of an object.
+
