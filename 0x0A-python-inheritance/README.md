@@ -37,3 +37,6 @@
 7. **6-base_geometry.py** & **6-main.py**
    - Class BaseGeometry (based on 5-base_geometry.py).
 
+8. **7-base_geometry.py** & **7-main.py**
+   - Class BaseGeometry (based on 6-base_geometry.py).
+
