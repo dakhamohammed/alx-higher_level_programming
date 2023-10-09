@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""function that returns the list of available attributes and methods of an object"""
+"""function returns the list of available attributes and methods of an obj"""
 
 
 def lookup(obj):
@@ -12,7 +12,7 @@ def lookup(obj):
 
     Returns:
     - list:
-        A list containing the names of all the attributes and methods of the object.
+        containing the names of all the attributes and methods of the obj.
     """
 
     atts_mets = dir(obj)
