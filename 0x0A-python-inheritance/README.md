@@ -19,3 +19,6 @@
 1. **0-lookup.py** & **0-main.py**
    - Function that returns the list of available attributes and methods of an object.
 
+2. **1-my_list.py** & **1-main.py** & **tests/1-my_list.txt**
+   - Class MyList that inherits from list.
+
