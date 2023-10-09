@@ -16,3 +16,6 @@
 
 ### Files
 
+1. **0-lookup.py** & **0-main.py**
+   - Function that returns the list of available attributes and methods of an object.
+
