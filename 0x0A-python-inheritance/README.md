@@ -22,3 +22,6 @@
 2. **1-my_list.py** & **1-main.py** & **tests/1-my_list.txt**
    - Class MyList that inherits from list.
 
+3. **2-is_same_class.py** & **2-main.py**
+   - Function that returns True if the object is exactly an instance of the specified class ; otherwise False.
+
