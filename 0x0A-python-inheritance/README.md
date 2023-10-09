@@ -34,3 +34,6 @@
 6. **5-base_geometry.py**
    - Empty class BaseGeometry.
 
+7. **6-base_geometry.py** & **6-main.py**
+   - Class BaseGeometry (based on 5-base_geometry.py).
+
