@@ -25,3 +25,6 @@
 3. **2-is_same_class.py** & **2-main.py**
    - Function that returns True if the object is exactly an instance of the specified class ; otherwise False.
 
+4. **3-is_kind_of_class.py** & **3-main.py**
+   - Function that returns True if the object is an instance of, or if the object is an instance of a class that inherited from, the specified class ; otherwise False.
+
