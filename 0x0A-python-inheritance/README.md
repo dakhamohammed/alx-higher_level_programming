@@ -40,3 +40,6 @@
 8. **7-base_geometry.py** & **7-main.py**
    - Class BaseGeometry (based on 6-base_geometry.py).
 
+9. **8-rectangle.py** & **8-main.py**
+   - Class Rectangle that inherits from BaseGeometry (7-base_geometry.py).
+
