@@ -5,8 +5,8 @@ class that
 inherited
 (directly or indirectly)
 from the specified
-class 
-; 
+class
+;
 otherwise
 False."""
 
