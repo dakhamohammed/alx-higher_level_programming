@@ -26,3 +26,6 @@
 3. **2-append_write.py** & **2-main.py**
    - Function that appends a string at the end of a text file (UTF8) and returns the number of characters added.
 
+4. **3-to_json_string.py** & **3-main.py**
+   - Function that returns the JSON representation of an object (string).
+
