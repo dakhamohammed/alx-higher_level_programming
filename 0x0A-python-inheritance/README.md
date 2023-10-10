@@ -43,3 +43,6 @@
 9. **8-rectangle.py** & **8-main.py**
    - Class Rectangle that inherits from BaseGeometry (7-base_geometry.py).
 
+10. **9-rectangle.py** & **9-main.py**
+    - Class Rectangle that inherits from BaseGeometry (7-base_geometry.py). (task based on 8-rectangle.py)
+
