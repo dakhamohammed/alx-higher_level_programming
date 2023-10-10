@@ -20,3 +20,6 @@
 1. **0-read_file.py** & **0-main.py** & **my_file_0.txt**
    - Function that reads a text file (UTF8) and prints it to stdout.
 
+2. **1-write_file.py** & **1-main.py**
+   - Function that writes a string to a text file (UTF8) and returns the number of characters written.
+
