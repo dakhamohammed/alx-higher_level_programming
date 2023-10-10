@@ -55,3 +55,6 @@
 13. **100-my_int.py** & **100-main.py**
     - Class MyInt that inherits from int.
 
+14. **101-add_attribute.py** & **101-main.py**
+    - Function that adds a new attribute to an object if it’s possible.
+
