@@ -23,3 +23,6 @@
 2. **1-write_file.py** & **1-main.py**
    - Function that writes a string to a text file (UTF8) and returns the number of characters written.
 
+3. **2-append_write.py** & **2-main.py**
+   - Function that appends a string at the end of a text file (UTF8) and returns the number of characters added.
+
