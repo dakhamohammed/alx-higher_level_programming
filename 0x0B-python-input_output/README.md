@@ -17,3 +17,6 @@
 
 ### Files
 
+1. **0-read_file.py** & **0-main.py** & **my_file_0.txt**
+   - Function that reads a text file (UTF8) and prints it to stdout.
+
