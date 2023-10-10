@@ -49,3 +49,6 @@
 11. **10-square.py** & **10-main.py**
     - Class Square that inherits from Rectangle (9-rectangle.py).
 
+12. **11-square.py** & **11-main.py**
+    - Class Square that inherits from Rectangle (9-rectangle.py). (task based on 10-square.py).
+
