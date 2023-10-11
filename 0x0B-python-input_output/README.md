@@ -38,3 +38,6 @@
 7. **6-load_from_json_file.py** & **6-main.py** & **my_fake.json**
    - Function that creates an Object from a “JSON file”.
 
+8. **7-add_item.py**
+   - Script that adds all arguments to a Python list, and then save them to a file.
+
