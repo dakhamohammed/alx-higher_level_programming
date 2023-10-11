@@ -35,3 +35,6 @@
 6. **5-save_to_json_file.py** & **5-main.py**
    - Function that writes an Object to a text file, using a JSON representation.
 
+7. **6-load_from_json_file.py** & **6-main.py** & **my_fake.json**
+   - Function that creates an Object from a “JSON file”.
+
