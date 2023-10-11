@@ -29,3 +29,6 @@
 4. **3-to_json_string.py** & **3-main.py**
    - Function that returns the JSON representation of an object (string).
 
+5. **4-from_json_string.py** & **4-main.py**
+   - Function that returns an object (Python data structure) represented by a JSON string.
+
