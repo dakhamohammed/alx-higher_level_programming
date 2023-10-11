@@ -44,3 +44,10 @@
 9. **8-class_to_json.py** & **8-main.py** & **8-my_class.py**
    - Function that returns the dictionary description with simple data structure (list, dictionary, string, integer and boolean) for JSON serialization of an object.
 
+10. **9-student.py** & **9-main.py**
+    - Class Student that defines a student by:
+      - Public instance attributes:
+        - ***first_name***
+        - ***last_name***
+        - ***age***
+
