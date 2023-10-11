@@ -51,3 +51,10 @@
         - ***last_name***
         - ***age***
 
+11. **10-student.py** & **10-main.py**
+    - Class Student that defines a student by: (based on 9-student.py)
+      - Public instance attributes:
+        - ***first_name***
+        - ***last_name***
+        - ***age***
+
