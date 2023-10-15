@@ -38,3 +38,6 @@
 4. **models/rectangle.py** & **3-main.py**
    - Update the class ***Rectangle*** by adding the public method ***def area(self):*** that returns the area value of the ***Rectangle*** instance.
 
+5. **models/rectangle.py** & **4-main.py**
+   - Update the class ***Rectangle*** by adding the public method ***def display(self):*** that prints in stdout the ***Rectangle*** instance with the character ***#***
+
