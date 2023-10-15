@@ -19,7 +19,7 @@
      - This class will be the “base” of all other classes in this project. The goal of it is to manage id attribute in all your future classes and to avoid duplicating the same code (by extension, same bugs).
 
 2. **models/rectangle.py** & **1-main.py**
-   - Class Rectangle that inherits from Base:
+   - Class ***Rectangle*** that inherits from ***Base***:
      - Private instance attributes, each with its own public getter and setter:
        - ***__width*** -> ***width***
        - ***__height*** -> ***height***
@@ -28,4 +28,10 @@
      - Class constructor: ***def __init__(self, width, height, x=0, y=0, id=None):***
        - Call the super class with ***id*** - this super call with use the logic of the ***__init__*** of the Base class
        - Assign each argument ***width***, ***height***, ***x*** and ***y*** to the right attribute
+
+3. **models/rectangle.py** & **2-main.py**
+   - Class ***Rectangle*** by adding validation of all setter methods and instantiation (***id*** excluded):
+     - If the input is not an integer, raise the ***TypeError*** exception with the message: ***<name of the attribute> must be an integer***. Example: ***width must be an integer***
+     - If ***width*** or ***height*** is under or equals ***0***, raise the ***ValueError*** exception with the message: ***<name of the attribute> must be > 0***. Example: ***width must be > 0***
+     - If ***x*** or ***y*** is under ***0***, raise the ***ValueError*** exception with the message: ***<name of the attribute> must be >= 0***. Example: ***x must be >= 0***
 
