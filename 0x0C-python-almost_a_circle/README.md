@@ -55,3 +55,9 @@
      - 4th argument should be the ***x*** attribute
      - 5th argument should be the ***y*** attribute
 
+9. **models/rectangle.py** & **8-main.py**
+   - Update the class ***Rectangle*** by updating the public method ***def update(self, *args):*** by changing the prototype to ***update(self, *args, **kwargs)*** that assigns a key/value argument to attributes:
+     - *****kwargs*** can be thought of as a double pointer to a dictionary: key/value
+     - *****kwargs*** must be skipped if ****args*** exists and is not empty
+     - Each key in this dictionary represents an attribute to the instance
+
