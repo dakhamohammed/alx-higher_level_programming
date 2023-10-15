@@ -42,5 +42,8 @@
    - Update the class ***Rectangle*** by adding the public method ***def display(self):*** that prints in stdout the ***Rectangle*** instance with the character ***#***
 
 6. **models/rectangle.py** & **5-main.py**
-   - Update the class ***Rectangle*** by overriding the ***__str__*** method so that it returns ***[Rectangle] (<id>) <x>/<y> - <width>/<height>***
+   - Update the class ***Rectangle*** by overriding the ***__str__*** method so that it returns ***[Rectangle] (***<id>***) ***<x>***/***<y>*** - ***<width>***/***<height>******
+
+7. **models/rectangle.py** & **6-main.py**
+   - Update the class ***Rectangle*** by improving the public method def ***display(self):*** to print in stdout the ***Rectangle*** instance with the character ***#*** by taking care of ***x*** and ***y***
 
