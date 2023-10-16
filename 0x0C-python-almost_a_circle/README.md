@@ -122,5 +122,9 @@
     - Update the class ***Base*** by adding the class methods ***def save_to_file_csv(cls, list_objs):*** and ***def load_from_file_csv(cls):*** that serializes and deserializes in CSV:
       - The filename must be: ***<Class name>.csv*** - example: ***Rectangle.csv***
 
-21. [ ] Task-21
+21. [x] Task-21 **models/base.py** & **101-main.py**
+    - Update the class ***Base*** by adding the static method ***def draw(list_rectangles, list_squares):*** that opens a window and draws all the ***Rectangles*** and ***Squares***:
+      - You must use the [Turtle graphics module](https://docs.python.org/3.0/library/turtle.html)
+      - To install it: ```bash sudo apt-get install python3-tk```
+      - To make the GUI available outside your vagrant machine, add this line in your Vagrantfile: ***config.ssh.forward_x11 = true***
 
