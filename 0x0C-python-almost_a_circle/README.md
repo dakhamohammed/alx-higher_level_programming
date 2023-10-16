@@ -9,7 +9,7 @@
    - How to handle named arguments in a function
 
 
-### Files:
+### Mandatory tasks: ####
 
 0. [ ] Task-0 **Unit tested and be PEP 8 validation""
 
@@ -115,4 +115,9 @@
 19. [x] Task-19 **models/base.py** & **18-main.py**
     - Update the class ***Base*** by adding the class method ***def load_from_file(cls):*** that returns a list of instances:
       - The filename: ***<Class name>.json*** - example: ***Rectangle.json***
+
+#### Advanced tasks: ####
+
+20. [ ] Task-20
+21. [ ] Task-21
 
