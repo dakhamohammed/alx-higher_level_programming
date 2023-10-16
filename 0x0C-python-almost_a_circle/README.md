@@ -11,7 +11,7 @@
 
 ### Mandatory tasks: ###
 
-0. [ ] Task-0 **Unit tested and be PEP 8 validation""
+0. [x] Task-0 **Unit tested and be PEP 8 validation""
 
 1. [x] Task-1  **models/base.py** & **models/__init__.py**
    - Class ***Base***:
