@@ -79,7 +79,7 @@
       - *****kwargs*** can be thought of as a double pointer to a dictionary: key/value (keyworded arguments)
       - *****kwargs*** must be skipped if *args exists and is not empty
 
-13. [x] Task-13
+13. [x] Task-13 **models/rectangle.py** & **12-main.py**
     - Update the class ***Rectangle*** by adding the public method ***def to_dictionary(self):*** that returns the dictionary representation of a ***Rectangle***.
       - This dictionary contain:
         - ***id***
@@ -88,7 +88,7 @@
         - ***x***
         - ***y***
 
-14. [x] Task-14
+14. [x] Task-14 **models/square.py** & **13-main.py**
     - Update the class ***Square*** by adding the public method ***def to_dictionary(self):*** that returns the dictionary representation of a ***Square***:
       - This dictionary contain:
         - ***id***
@@ -96,7 +96,10 @@
         - ***x***
         - ***y***
 
-15. [ ] Task-15
+15. [x] Task-15 **models/base.py** & **14-main.py**
+    - Update the class ***Base*** by adding the static method ***def to_json_string(list_dictionaries):*** that returns the JSON string representation of ***list_dictionaries***:
+      - ***list_dictionaries*** is a list of dictionaries
+
 16. [ ] Task-16
 17. [ ] Task-17
 18. [ ] Task-18
