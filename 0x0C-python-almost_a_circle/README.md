@@ -108,6 +108,9 @@
     - Update the class ***Base*** by adding the static method ***def from_json_string(json_string):*** that returns the list of the JSON string representation ***json_string***:
       - ***json_string*** is a string representing a list of dictionaries
 
-18. [ ] Task-18
+18. [x] Task-18 **models/base.py** & **17-main.py**
+    - Update the class ***Base*** by adding the class method ***def create(cls, **dictionary):*** that returns an instance with all attributes already set:
+      - *****dictionary*** can be thought of as a double pointer to a dictionary
+
 19. [ ] Task-19
 
