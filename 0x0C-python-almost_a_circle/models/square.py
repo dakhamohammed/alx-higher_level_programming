@@ -39,12 +39,12 @@ class Square(Rectangle):
     def update(self, *args, **kwargs):
         """assigns an argument to each attribute:
         Args:
-            *args: list of arguments - no-keyworded arguments
+            *args: list of arguments - no-keyworded arguments.
                 1st id attribute.
-                2nd size attribute
-                3rd x attribute
+                2nd size attribute.
+                3rd x attribute.
                 4th y attribute.
-            **kwargs: double pointer to a dictionary: key/value (keyworded arguments)
+            **kwargs: x2 pointer to a dictionary: key/value keyworded arguments
         """
         arg_increment = 0
         if args and len(args) != 0:
@@ -71,7 +71,7 @@ class Square(Rectangle):
                     else:
                         self.id = _val_
                 elif _key_ == "size":
-                     self.size = _val_
+                    self.size = _val_
                 elif _key_ == "x":
                     self.x = _val_
                 elif _key_ == "y":

@@ -81,6 +81,6 @@ class Base:
         try:
             with open(file_name, "r") as jsonfile:
                 list_dictionaries = Base.from_json_string(jsonfile.read())
-                return [cls.create(**dictionary) for dictionary in list_dictionaries]
+                return [cls.create(**dicti) for dicti in list_dictionaries]
         except IOError:
             return []
