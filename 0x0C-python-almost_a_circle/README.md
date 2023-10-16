@@ -11,7 +11,7 @@
 
 ### Files:
 
-0. [] Task-0 **Unit tested and be PEP 8 validation""
+0. [ ] Task-0 **Unit tested and be PEP 8 validation""
 
 1. [x] Task-1  **models/base.py** & **models/__init__.py**
    - Class ***Base***:
@@ -100,7 +100,10 @@
     - Update the class ***Base*** by adding the static method ***def to_json_string(list_dictionaries):*** that returns the JSON string representation of ***list_dictionaries***:
       - ***list_dictionaries*** is a list of dictionaries
 
-16. [ ] Task-16
+16. [x] Task-16 **models/base.py** & **15-main.py**
+    - Update the class ***Base*** by adding the class method ***def save_to_file(cls, list_objs):*** that writes the JSON string representation of ***list_objs*** to a file:
+      - ***list_objs*** is a list of instances who inherits of ***Base*** - example: list of ***Rectangle*** or list of ***Square*** instances
+
 17. [ ] Task-17
 18. [ ] Task-18
 19. [ ] Task-19
