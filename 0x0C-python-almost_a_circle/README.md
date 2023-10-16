@@ -112,5 +112,7 @@
     - Update the class ***Base*** by adding the class method ***def create(cls, **dictionary):*** that returns an instance with all attributes already set:
       - *****dictionary*** can be thought of as a double pointer to a dictionary
 
-19. [ ] Task-19
+19. [x] Task-19 **models/base.py** & **18-main.py**
+    - Update the class ***Base*** by adding the class method ***def load_from_file(cls):*** that returns a list of instances:
+      - The filename: ***<Class name>.json*** - example: ***Rectangle.json***
 
