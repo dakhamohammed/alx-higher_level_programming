@@ -9,7 +9,7 @@
    - How to handle named arguments in a function
 
 
-### Mandatory tasks: ####
+### Mandatory tasks: ###
 
 0. [ ] Task-0 **Unit tested and be PEP 8 validation""
 
@@ -116,8 +116,11 @@
     - Update the class ***Base*** by adding the class method ***def load_from_file(cls):*** that returns a list of instances:
       - The filename: ***<Class name>.json*** - example: ***Rectangle.json***
 
-#### Advanced tasks: ####
+### Advanced tasks: ###
 
-20. [ ] Task-20
+20. [x] Task-20 **models/base.py** & **100-main.py**
+    - Update the class ***Base*** by adding the class methods ***def save_to_file_csv(cls, list_objs):*** and ***def load_from_file_csv(cls):*** that serializes and deserializes in CSV:
+      - The filename must be: ***<Class name>.csv*** - example: ***Rectangle.csv***
+
 21. [ ] Task-21
 
