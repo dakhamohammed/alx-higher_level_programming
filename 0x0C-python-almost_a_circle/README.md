@@ -104,7 +104,10 @@
     - Update the class ***Base*** by adding the class method ***def save_to_file(cls, list_objs):*** that writes the JSON string representation of ***list_objs*** to a file:
       - ***list_objs*** is a list of instances who inherits of ***Base*** - example: list of ***Rectangle*** or list of ***Square*** instances
 
-17. [ ] Task-17
+17. [x] Task-17 **models/base.py** & **16-main.py**
+    - Update the class ***Base*** by adding the static method ***def from_json_string(json_string):*** that returns the list of the JSON string representation ***json_string***:
+      - ***json_string*** is a string representing a list of dictionaries
+
 18. [ ] Task-18
 19. [ ] Task-19
 
