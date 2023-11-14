@@ -20,3 +20,11 @@
     SHOW DATABASES
     ```
   * File: `0-list_databases.sql`
+
++ Task 1. **Create a database**
+  * SQL script that creates the database `hbtn_0c_0` in your MySQL server.
+    ```sql
+    CREATE DATABASE IF NOT EXISTS hbtn_0c_0
+    ```
+  * File: `1-create_database_if_missing.sql`
+
