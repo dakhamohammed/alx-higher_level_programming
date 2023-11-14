@@ -13,3 +13,10 @@
 * What are `subqueries`
 * How to use MySQL functions
 
+## Tasks:
++ Task 0. **List databases:**
+  * SQL script that lists all databases of your MySQL server.
+    ```sql
+    SHOW DATABASES
+    ```
+  * File: `0-list_databases.sql`
