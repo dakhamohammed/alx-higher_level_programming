@@ -28,3 +28,7 @@
     ```
   * File: `1-create_database_if_missing.sql`
 
++ Task 2. **Delete a database**
+  * SQL script that deletes the database `hbtn_0c_0` in your MySQL server.
+  * File: `2-remove_database.sql`
+
