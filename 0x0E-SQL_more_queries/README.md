@@ -60,3 +60,10 @@
       * `name` VARCHAR(256)
   * File: `5-unique_id.sql`
 
++ Task 6. **States table**
+  * SQL script that creates the database `hbtn_0d_usa` and the table states (in the database `hbtn_0d_usa`) on your MySQL server.
+    * `states` description:
+      * `id` INT unique, auto generated, can’t be null and is a primary key
+      * `name` VARCHAR(256) can’t be null
+  * File: `6-states.sql`
+
