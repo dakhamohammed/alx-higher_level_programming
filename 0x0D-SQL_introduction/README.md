@@ -32,3 +32,10 @@
   * SQL script that deletes the database `hbtn_0c_0` in your MySQL server.
   * File: `2-remove_database.sql`
 
++ Task 3. **List tables**
+  * SQL script that lists all the tables of a database in your MySQL server.
+    ```sql
+    cat 3-list_tables.sql | mysql -hlocalhost -uroot -p mysql
+    ```
+  * File: `3-list_tables.sql`
+
