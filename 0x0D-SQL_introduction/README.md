@@ -39,3 +39,10 @@
     ```
   * File: `3-list_tables.sql`
 
++ Task 4. **First table**
+  * SQL script that creates a table called `first_table` in the current database in your MySQL server.
+    * `first_table` description:
+      * `id` INT
+      * `name` VARCHAR(256)
+  * File: `4-first_table.sql`
+
