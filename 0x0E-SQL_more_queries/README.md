@@ -16,3 +16,16 @@
   * SQL script that lists all privileges of the MySQL users `user_0d_1` and `user_0d_2` on server (in localhost).
   * File: `0-privileges.sql`
 
++ Task 1. **Root user**
+  * SQL script that creates the MySQL server user `user_0d_1`.
+  ```sql
+  ~/$ cat 1-create_user.sql | mysql -hlocalhost -uroot -proot
+  ~/$ cat 0-privileges.sql | mysql -hlocalhost -uroot -proot
+  Grants for user_0d_1@localhost
+  GRANT SELECT, INSERT..., DROP ROLE ON *.* TO `user_0d_1`@`localhost`
+  GRANT APPLICATION_PASSWORD_ADMIN,...,XA_RECOVER_ADMIN ON *.* TO `user_0d_1`@`localhost`
+  ERROR 1141 (42000) at line 4: There is no such grant defined for user 'user_0d_2' on host 'localhost'
+  ~/$ 
+  ```
+  * File: `1-create_user.sql`
+
