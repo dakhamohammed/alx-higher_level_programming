@@ -53,3 +53,10 @@
       * `name` VARCHAR(256)
   * File: `4-never_empty.sql`
 
++ Task 5. **Unique ID**
+  * SQL script that creates the table `unique_id` on your MySQL server.
+    * `unique_id` description:
+      * `id` INT with the default value `1` and must be unique
+      * `name` VARCHAR(256)
+  * File: `5-unique_id.sql`
+
