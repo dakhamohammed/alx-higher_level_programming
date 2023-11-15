@@ -11,3 +11,8 @@
 * What are subqueries
 * What are `JOIN` and `UNION`
 
+### Tasks:
++ Task 0. **My privileges!**
+  * SQL script that lists all privileges of the MySQL users `user_0d_1` and `user_0d_2` on server (in localhost).
+  * File: `0-privileges.sql`
+
