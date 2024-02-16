@@ -2,9 +2,9 @@
 
 const req = require('request');
 const episode = process.argv[2];
-const API = 'https://swapi-api.alx-tools.com/api/films/';
+const api = 'https://swapi-api.alx-tools.com/api/films/';
 
-req(API_URL + episod, function (err, response, body) {
+req(api + episode, function (err, response, body) {
   if (err) {
     console.log(err);
   } else if (response.statusCode === 200) {
